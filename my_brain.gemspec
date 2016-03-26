@@ -5,5 +5,6 @@ Gem::Specification.new do |s|
   s.extensions << "ext/my_native_brain/extconf.rb"
 
   s.add_dependency "rice"
+  s.add_dependency "rest-client"
   s.add_development_dependency "rake-compiler"
 end
