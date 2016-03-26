@@ -47,5 +47,3 @@ class MyBrain
   end
 end
 
-puts MyBrain.new.query 1.023, 135.34
-
