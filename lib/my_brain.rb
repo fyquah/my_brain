@@ -3,7 +3,7 @@ require "rest-client"
 
 class MyBrain
   def path_to_resources
-    File.join(File.dirname(File.expand_path(__FILE__)), 'res/')
+    File.join(File.dirname(File.expand_path(__FILE__)), '../res/')
   end
 
   def initialize
