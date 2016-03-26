@@ -1,0 +1,23 @@
+# Metadata for Kindergartens
+---
+Identifier: '17d94d20-ff91-4d02-a6cc-beee73baad62'
+Name: 'kindergartens'
+Title: 'Kindergartens'
+Description: 'To identify the location of MOE-registered kindergartens'
+Topics:
+  - 'Society'
+Keywords:
+  - 'Kindergartens'
+Publisher:
+  Name: 'Early Childhood Development Agency'
+Source Url: 'http://www.onemap.sg/API/Help/'
+License: 'https://data.gov.sg/terms'
+Last Updated: '2016-01-26T06:25:02.262904'
+Resources:
+  -
+    Identifier: '9999afb8-0fd7-4ab2-9d92-295f76537350'
+    Name: 'kindergartens.zip'
+    Title: 'Kindergartens'
+    Url: 'https://data.gov.sg/dataset/17d94d20-ff91-4d02-a6cc-beee73baad62/resource/9999afb8-0fd7-4ab2-9d92-295f76537350/download/kindergartens.zip'
+    Format: 'KML'
+    Last Updated: '2015-05-20T05:20:29.337052'

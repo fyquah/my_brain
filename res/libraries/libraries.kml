@@ -1,0 +1,2070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="LIBRARIES">
+  <name>LIBRARIES</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>LIBRARIES</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Pasir Ris Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pasir Ris Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Pasir Ris Central St 3</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>PRPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Pasir Ris Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>518457</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>4</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/325/Default.aspx?branch=Pasir+Ris+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/325/Default.aspx?branch=Pasir+Ris+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/PasirRis/MAIN-PRPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/PasirRis/MAIN-PRPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>1-Jun</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9494398801859,1.372357509605236,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>library@orchard</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>library@orchard</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>277</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Orchard Road</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>OCPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>library@orchard</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>238858</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>3&amp; 4</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/337/Default.aspx?branch=library%40orchard">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/337/Default.aspx?branch=library%40orchard</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>03-12  &amp; 04-11</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8397532407607,1.300395438640333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Chua Chu Kang Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Chua Chu Kang Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>21</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Choa Chu Kang Avenue 4</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>CCKPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Chua Chu Kang Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>689812</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>4</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/295/Default.aspx?branch=Choa+Chu+Kang+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/295/Default.aspx?branch=Choa+Chu+Kang+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/ChoaChuKang/MAIN-CCKPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/ChoaChuKang/MAIN-CCKPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7450392698481,1.384959197053694,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Bukit Panjang Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bukit Panjang Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Jelebu Road</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>BPPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bukit Panjang Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>677743</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>4</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/292/Default.aspx?branch=Bukit+Panjang+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/292/Default.aspx?branch=Bukit+Panjang+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/BukitPanjang/MAIN-BPPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/BukitPanjang/MAIN-BPPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>16-17</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7643500648779,1.379936373667291,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Cheng San Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cheng San Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>90</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Hougang Avenue 10</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>CSPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Cheng San Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>538766</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>3</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/288/Default.aspx?branch=Cheng+San+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/288/Default.aspx?branch=Cheng+San+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/ChengSan/MAIN-CSPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/ChengSan/MAIN-CSPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>11</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8937753488845,1.372572644918252,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Clementi Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clementi Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>3155</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>The Clementi Mall</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Commonwealth Avenue West</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>CMPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Clementi Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>129588</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>3</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/296/Default.aspx?branch=Clementi+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/296/Default.aspx?branch=Clementi+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/Clementi/MAIN-CMPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/Clementi/MAIN-CMPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>13</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7643056145522,1.315062016476669,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Ang Mo Kio Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Ang Mo Kio Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>4300</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Ang Mo Kio Avenue 6</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>AMPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Ang Mo Kio Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>569842</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/332/Default.aspx?branch=Ang+Mo+Kio+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/332/Default.aspx?branch=Ang+Mo+Kio+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/AngMoKio/MAIN-PICTURE-of-AMPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/AngMoKio/MAIN-PICTURE-of-AMPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8455806748239,1.374790069120379,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Yishun Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Yishun Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>930</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Yishun Ave 2</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>YIPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Yishun Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>769098</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>4</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/320/Default.aspx?branch=Yishun+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/320/Default.aspx?branch=Yishun+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/Yishun/MAIN-YIPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/Yishun/MAIN-YIPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8358034580946,1.429715473565662,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Bishan Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bishan Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>5</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Bishan Place</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>BIPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bishan Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>579841</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/312/Default.aspx?branch=Bishan+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/312/Default.aspx?branch=Bishan+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/Bishan/MAIN-BIPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/Bishan/MAIN-BIPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8488404454126,1.349850666773968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Bedok Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bedok Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>21</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Bedok North St. 1</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>BEPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bedok Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>469659</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/330/Default.aspx?branch=Bedok+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/330/Default.aspx?branch=Bedok+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/Bedok/MAIN-BEPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/Bedok/MAIN-BEPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9309240239353,1.326812716040734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>library@esplanade</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>library@esplanade</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>8</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Raffles Avenue</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>EPPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>library@esplanade</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>39802</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>3</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/336/Default.aspx?branch=library%40esplanade">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/336/Default.aspx?branch=library%40esplanade</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/esplanade/MAIN-EPPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/esplanade/MAIN-EPPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8557702501082,1.28941165551172,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Central Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Central Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>100</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>Basement 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Victoria Street</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>CTPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Central Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>188064</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/289/Default.aspx?branch=Central+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/289/Default.aspx?branch=Central+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/Central/MAIN-CTPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/Central/MAIN-CTPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8542347985363,1.297420180620407,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Bukit Merah Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bukit Merah Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>3779</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Jalan Bukit Merah</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>BMPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bukit Merah Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>159462</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/301/Default.aspx?branch=Bukit+Merah+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/301/Default.aspx?branch=Bukit+Merah+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/BukitMerah/MAIN-BMPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/BukitMerah/MAIN-BMPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8156213067077,1.284063550566641,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Toa Payoh Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toa Payoh Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>6</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Toa Payoh Central</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>TPPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Toa Payoh Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>319191</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/319/Default.aspx?branch=Toa+Payoh+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/319/Default.aspx?branch=Toa+Payoh+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/ToaPayoh/MAIN-TPPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/ToaPayoh/MAIN-TPPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8509692943797,1.333624635565361,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Jurong Regional Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jurong Regional Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>21</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Jurong East Central 1</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>JRL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Jurong Regional Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>609732</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/338/Default.aspx?branch=Jurong+Regional+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/338/Default.aspx?branch=Jurong+Regional+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/JurongReg/MAIN-JRL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/JurongReg/MAIN-JRL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7392428706769,1.332894515208683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>National Library / Lee Kong Chian Reference Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>National Library / Lee Kong Chian Reference Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>100</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Victoria Street</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>National Library Level 7-13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>National Library / Lee Kong Chian Reference Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>188064</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2f+Lee+Kong+Chian+Reference+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/329/Default.aspx?branch=National+Library+%2f+Lee+Kong+Chian+Reference+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/images/CRW_0001.jpg">http://www.nlb.gov.sg/Portals/0/library/images/CRW_0001.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8542872717168,1.297202409149115,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Queenstown Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Queenstown Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>53</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Margaret Drive</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>QUPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Queenstown Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>149297</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/309/Default.aspx?branch=Queenstown+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/309/Default.aspx?branch=Queenstown+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/QueensTown/MAIN-QUPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/QueensTown/MAIN-QUPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8055203971722,1.298712631705556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Woodlands Regional Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Woodlands Regional Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>900</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>South Woodlands Drive</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>WRL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Woodlands Regional Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>730900</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/310/Default.aspx?branch=Woodlands+Regional+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/310/Default.aspx?branch=Woodlands+Regional+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/WoodlandsReg/MAIN-WRL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/WoodlandsReg/MAIN-WRL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.786927526354,1.435037001348562,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Tampines Regional Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tampines Regional Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>31</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Tampines Ave 7</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>TRL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Tampines Regional Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>529620</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/335/Default.aspx?branch=Tampines+Regional+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/335/Default.aspx?branch=Tampines+Regional+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/TampinesReg/Entrance-TRL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/TampinesReg/Entrance-TRL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9445558663036,1.35629183172715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Sembawang Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sembawang Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>30</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Sembawang Drive</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>SBPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Sembawang Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>757713</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>3</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/331/Default.aspx?branch=Sembawang+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/331/Default.aspx?branch=Sembawang+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/Sembawang/MAIN-SBPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/Sembawang/MAIN-SBPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8194985537378,1.448196648273304,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Geylang East Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Geylang East Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>50</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Geylang East Ave 1</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>GEPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Geylang East Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>389777</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/328/Default.aspx?branch=Geylang+East+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/328/Default.aspx?branch=Geylang+East+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/Geylang/MAIN-GEPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/Geylang/MAIN-GEPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8858372732175,1.317442979425366,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Jurong West Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jurong West Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>60</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Jurong West Central 3</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>JWPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Jurong West Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>648346</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/302/Default.aspx?branch=Jurong+West+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/302/Default.aspx?branch=Jurong+West+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/JurongWest/MAIN-JWPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/JurongWest/MAIN-JWPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7045123255329,1.340635992538448,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Serangoon Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Serangoon Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>23</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>nex</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Serangoon Central</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>SRPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Serangoon Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>556083</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>4</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/342/Default.aspx?branch=Serangoon+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/342/Default.aspx?branch=Serangoon+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/Serangoon/MAIN-SRPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/Serangoon/MAIN-SRPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>82-83</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8718130263263,1.350644894145962,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Bukit Batok Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bukit Batok Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Bukit Batok Central Link</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>BBPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bukit Batok Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>658713</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>3</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/286/Default.aspx?branch=Bukit+Batok+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/286/Default.aspx?branch=Bukit+Batok+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/BukitBatok/MAIN-BBPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/BukitBatok/MAIN-BBPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.749285191724,1.349497548002101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Sengkang Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sengkang Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Sengkang Square</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>SKPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Sengkang Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>545078</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>4</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/341/Default.aspx?branch=Sengkang+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/341/Default.aspx?branch=Sengkang+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/Senkang/MAIN-SKPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/Senkang/MAIN-SKPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>26-27</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8946882390407,1.391328762369498,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Marine Parade Public Library</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Marine Parade Public Library</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>278</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Marine Parade Road</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>MPPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Marine Parade Public Library</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>449282</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>1</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/324/Default.aspx?branch=Marine+Parade+Public+Library">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/324/Default.aspx?branch=Marine+Parade+Public+Library</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/MarineParade/MAIN-MPPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/MarineParade/MAIN-MPPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9095814469841,1.304669668723749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>library@chinatown</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>library@chinatown</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>133</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>Chinatown Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>North Bridge Road</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>CNPL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>library@chinatown</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>59413</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>4</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/322/Default.aspx?branch=library%40chinatown">http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/322/Default.aspx?branch=library%40chinatown</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/Portals/0/library/gallery/Chinatown/MAIN-CNPL-cropped.jpg">http://www.nlb.gov.sg/Portals/0/library/gallery/Chinatown/MAIN-CNPL-cropped.jpg</a></td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>12</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8449429126692,1.285260737004692,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>The LLiBrary</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>The LLiBrary</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSBLOCKHOUSENUMBER</td>
+<td>11</td>
+</tr>
+<tr>
+<td>ADDRESSBUILDINGNAME</td>
+<td>Lifelong Learning Institute</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSSTREETNAME</td>
+<td>Eunos Road</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>The Llibrary</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>The LLiBrary</td>
+</tr>
+<tr>
+<td>ADDRESSPOSTALCODE</td>
+<td>408601</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESSFLOORNUMBER</td>
+<td>3</td>
+</tr>
+<tr>
+<td>HYPERLINK</td>
+<td><a target="_blank" href="http://www.nlb.gov.sg/VisitUs/TheLLiBrary.aspx">http://www.nlb.gov.sg/VisitUs/TheLLiBrary.aspx</a></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PHOTOURL</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>ADDRESSUNITNUMBER</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8931321586958,1.321244760949484,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_64b5e60.png</href></Icon>
+      <scale>0.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

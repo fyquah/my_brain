@@ -1,0 +1,22 @@
+# Metadata for ABC Waters Projects
+---
+Identifier: 'a241ca40-83da-4a14-9e48-71931a4751af'
+Name: 'abc-waters-projects'
+Title: 'ABC Waters Projects'
+Description: 'Depicts locations of ABC Waters Projects'
+Topics:
+  - 'Environment'
+Keywords:
+  - 'water projects'
+Publisher:
+  Name: 'PUB, Singapore''s national water agency'
+License: 'https://data.gov.sg/terms'
+Last Updated: '2015-09-24T15:10:22.616362'
+Resources:
+  -
+    Identifier: '55506a5e-7765-4055-a847-9b715861431e'
+    Name: 'acb-water-projects-kml.kml'
+    Title: 'ACB Water Projects KML'
+    Url: 'https://data.gov.sg/dataset/a241ca40-83da-4a14-9e48-71931a4751af/resource/55506a5e-7765-4055-a847-9b715861431e/download/abcwatersproj.kml'
+    Format: 'KML'
+    Last Updated: '2015-09-24T15:10:22.467123'

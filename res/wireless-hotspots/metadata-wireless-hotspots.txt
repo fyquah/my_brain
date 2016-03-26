@@ -1,0 +1,22 @@
+# Metadata for Wireless HotSpots
+---
+Identifier: '6b3f1e1b-257d-4d49-8142-1b2271d20143'
+Name: 'wireless-hotspots'
+Title: 'Wireless HotSpots'
+Description: 'To locate wireless hotspots in Singapore.'
+Topics:
+  - 'Technology'
+Keywords:
+  - 'wireless'
+Publisher:
+  Name: 'Infocomm Development Authority of Singapore'
+License: 'https://data.gov.sg/terms'
+Last Updated: '2015-10-22T03:12:02.924275'
+Resources:
+  -
+    Identifier: 'd9619dad-3148-40c0-8726-200be14ebcbc'
+    Name: 'wireless-hot-spots.zip'
+    Title: 'Wireless Hot Spots'
+    Url: 'https://data.gov.sg/dataset/6b3f1e1b-257d-4d49-8142-1b2271d20143/resource/d9619dad-3148-40c0-8726-200be14ebcbc/download/wireless-hotspots.zip'
+    Format: 'KML'
+    Last Updated: '2015-10-22T03:12:02.784338'

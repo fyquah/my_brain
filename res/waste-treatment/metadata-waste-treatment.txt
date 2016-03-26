@@ -1,0 +1,23 @@
+# Metadata for Waste Treatment
+---
+Identifier: '82902624-9d48-4c7d-90c2-e4dadbc168ad'
+Name: 'waste-treatment'
+Title: 'Waste Treatment'
+Description: 'Location of Toxic Industrial Wastes Treatment and Disposal Facilities'
+Topics:
+  - 'Environment'
+Keywords:
+  - 'treatment'
+  - 'waste'
+Publisher:
+  Name: 'National Environment Agency'
+License: 'https://data.gov.sg/terms'
+Last Updated: '2015-09-24T02:41:11.895000'
+Resources:
+  -
+    Identifier: '0192062d-c3b9-42d5-b901-c3eb10a63ada'
+    Name: 'waste-treatment-kml.kml'
+    Title: 'Waste Treatment KML'
+    Url: 'https://data.gov.sg/dataset/82902624-9d48-4c7d-90c2-e4dadbc168ad/resource/0192062d-c3b9-42d5-b901-c3eb10a63ada/download/wastetreatment.kml'
+    Format: 'KML'
+    Last Updated: '2015-09-24T02:41:11.735212'

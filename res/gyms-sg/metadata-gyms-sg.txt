@@ -1,0 +1,23 @@
+# Metadata for Gyms@SG
+---
+Identifier: '6e3d1ca7-2b2c-4111-830b-16c602488a8e'
+Name: 'gyms-sg'
+Title: 'Gyms@SG'
+Description: 'Location of exercise facilities around Singapore'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Exercise'
+  - 'Fitness'
+  - 'Physical activities'
+Publisher:
+  Name: 'Health Promotion Board'
+License: 'https://data.gov.sg/terms'
+Last Updated: '2016-02-29T23:40:19.936407'
+Resources:
+  Identifier: '3c31d097-863c-48c2-82de-ba63343c9580'
+  Name: 'gyms-sg.kml'
+  Title: 'Gyms@SG'
+  Url: 'https://data.gov.sg/dataset/6e3d1ca7-2b2c-4111-830b-16c602488a8e/resource/3c31d097-863c-48c2-82de-ba63343c9580/download/exercisefacilities.kml'
+  Format: 'KML'
+  Last Updated: '2016-02-29T23:40:19.877906'

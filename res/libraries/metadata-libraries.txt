@@ -1,0 +1,24 @@
+# Metadata for Libraries
+---
+Identifier: '6ca1a5e4-60aa-4e71-aa93-d3f6c657c8a4'
+Name: 'libraries'
+Title: 'Libraries'
+Description: 'Locate libraries in Singapore'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'NLB'
+  - 'libraries'
+  - 'library'
+Publisher:
+  Name: 'National Library Board'
+License: 'https://data.gov.sg/terms'
+Last Updated: '2016-03-01T01:01:18.605819'
+Resources:
+  -
+    Identifier: 'af80db0f-0863-4664-9413-7592c353f0f5'
+    Name: 'libraries.kml'
+    Title: 'Libraries'
+    Url: 'https://data.gov.sg/dataset/6ca1a5e4-60aa-4e71-aa93-d3f6c657c8a4/resource/af80db0f-0863-4664-9413-7592c353f0f5/download/libraries.kml'
+    Format: 'KML'
+    Last Updated: '2016-03-01T01:01:18.547820'

@@ -1,0 +1,22 @@
+# Metadata for Quit Centres
+---
+Identifier: '313b851d-609e-41c9-8b8b-3c81a8efea2b'
+Name: 'quit-centres'
+Title: 'Quit Centres'
+Description: 'Smoking Cessation Centres Listing'
+Topics:
+  - 'Health'
+Keywords:
+  - 'quit centres'
+Publisher:
+  Name: 'Health Promotion Board'
+License: 'https://data.gov.sg/terms'
+Last Updated: '2015-10-20T06:40:26.606006'
+Resources:
+  -
+    Identifier: 'a0ae0d45-a408-479c-b123-3bfb62f00523'
+    Name: 'quit-centres.zip'
+    Title: 'Quit Centres'
+    Url: 'https://data.gov.sg/dataset/313b851d-609e-41c9-8b8b-3c81a8efea2b/resource/a0ae0d45-a408-479c-b123-3bfb62f00523/download/quit-centres.zip'
+    Format: 'KML'
+    Last Updated: '2015-10-20T06:40:26.417771'

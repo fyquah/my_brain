@@ -1,0 +1,5479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>The Southbridge Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058759</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845656491846,1.28341928807413</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Travellersg</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208559</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861714884525,1.31033179628668</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Santa Grand Hotel Chinatown</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058479</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843899311737,1.2828596614164</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Santa Grand Hotel West Coast</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 118769</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.768589398495,1.29233478473488</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>5footwayinn Project Ann Siang</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058818</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845322651516,1.2819214506685</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>5footwayinn Project Boat Quay</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 049864</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.84919553467,1.2882024171655</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>5footwayinn Project Bugis</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199901</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861436512185,1.30198294194902</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>5footwayinn Project Chinatown 1</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059222</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843903202138,1.28344989425283</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>85 Beach Garden Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189694</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.85656959319,1.29730361154799</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABC Hostel Hamilton</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209178</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860676845983,1.31139148720129</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Adamson Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199135</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858427720959,1.30257421316718</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Adonis Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188592</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.855342057572,1.29651438527698</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Amoy Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 048464</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.848589805612,1.28271490123232</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Amrise Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 387436</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877871919245,1.31392311641327</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Backpacker Cozy Corner Guesthouse</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188736</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.855775806373,1.2983707420307</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Backpackers Inn Chinatown</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059508</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845407098468,1.2835602625762</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Blissful Loft</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059672</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847112348877,1.2874136604117</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>BuncRadius Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 207372</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854840239249,1.30536611717437</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>BuncRadius Hostel on Clarke Quay</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058670</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.848499853995,1.28808183703556</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Capri By Fraser Changi City Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 486037</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.963583456334,1.33426589544753</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Central 65 Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208852</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.856400638988,1.3066865833177</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Champion Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 427726</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.89837556578,1.31473431622691</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Changi Cove</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 509866</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.975654648781,1.38857547127549</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Checkers Backpackers Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209918</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.85258690058,1.30505093641414</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Parc Sovereign Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189970</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.851182414122,1.30359516199692</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Park 22 Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 088392</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.841819311525,1.28062198189687</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Park Regis Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058268</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844442998021,1.28808390285203</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>PARKROYAL on Beach Road Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199591</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860069898331,1.29945408099496</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punggol Ranch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 829168</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.910844003516,1.42008480159413</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Quality Hotel Marlow</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329926</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852519411844,1.32005220693316</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Quarters</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 049368</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.848986056414,1.28767310366739</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Raintr33 Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059673</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847132626412,1.28744519731296</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>RELC International Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 258352</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.826031614408,1.31283895758749</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rendezvous Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189559</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.849315774955,1.29858331082516</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Riders Lodge</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 287999</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.795221399092,1.3345575421756</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>River City Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059672</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847112348877,1.2874136604117</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Royal India Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 207667</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.855672146266,1.30922921665651</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rucksack Inn 2</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059677</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847320791819,1.28732246492517</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rucksack InnLavender</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 338800</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860315625216,1.31436284708699</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Santa Grand Hotel East Coast</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 428877</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.905795214878,1.30672354011027</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Santa Grand Hotel Lai Chun Yuen</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058476</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844175297653,1.28256740388152</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Santa Grand Hotel Little India</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 207309</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853089004975,1.30782024010408</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Seng Wah Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398673</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.882411492907,1.31231791971222</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Shophouse The Social Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199745</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.859681104656,1.30078670990934</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Simpang De Bedok Boarding House</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 469546</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.947049626643,1.33160140776557</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sing Hoe Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 437761</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.891452115504,1.30076163490607</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sleep Delight</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209180</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860733474658,1.31142118591214</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sleepy Kiwi</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199471</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.859372195175,1.30162161720103</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sloane Court Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 259803</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.832206056713,1.31569455024268</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Coziee Lodge</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 389198</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.872875563156,1.31077423549567</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Crowne Plaza Changi Airport</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 819664</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.987946853617,1.35868067525494</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cultural Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209019</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858630024264,1.31014143637108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>D Kranji Farm Resort</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 718813</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.718428099393,1.41928473895294</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Days Hotel Singapore At Zhongshan Park</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329133</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847365531037,1.32697804930501</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Deluxe Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399099</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877396955523,1.31067463152393</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dragon Court Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059498</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844527638726,1.28374295645198</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fernloft Hostel Little India</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208930</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858154822889,1.31019277650858</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Five Stones Hostel at Beach Road</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199550</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860407170749,1.30097813266791</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Bugis</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188942</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.855555838147,1.29692115852662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Ocean View</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 118773</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.768512472327,1.29241410183802</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Royal</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098838</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.813874664934,1.26970709980329</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Selegie</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188329</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.849948972721,1.30376553562508</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Viva</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098721</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.813969464353,1.2698884139384</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Waterfront</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 118759</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.768887946644,1.29220926842139</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>G4 Station Backpackers Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 228675</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.849907321857,1.30436888102586</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grand C Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208532</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.856283183861,1.31047448325471</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grand Imperial Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 219924</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.85192835556,1.30833595123875</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grand Park City Hall</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 179809</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.850123601821,1.29262928427102</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hangout  Mt Emily</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 228119</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847846254354,1.30336661894589</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Holiday Inn Singapore Atrium</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 169075</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.83406796624,1.28907053494304</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Holiday Inn Singapore Orchard City Centre</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 229616</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.841101261053,1.30227946595336</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 1929</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 089154</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.84181196384,1.28079249631152</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Geylang</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398863</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.879565021644,1.31178621433669</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Orchid</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399090</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.87727741355,1.31119150505528</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Clover 769 North Bridge Road</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 198737</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.859584537298,1.30367153390277</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Jen Orchardgateway Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 238858</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.839324781437,1.30048945527773</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Jen Tanglin Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 249716</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.823912035341,1.30427087692545</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Nuve</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199143</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858274974405,1.30275174419638</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Royal</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 307964</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.841859163527,1.31683094873218</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ideal Backpackers Hostel Kallang</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 389200</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.872957486651,1.31083913319837</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Innotel Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 238485</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844450308875,1.29766113910214</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>InterContinental Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188966</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854866634858,1.29846998864492</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>istayinn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058764</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845923779955,1.28298269285146</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Joyfor Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 389226</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.873959676744,1.31118335705276</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Just Inn Pine</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 207566</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860208550257,1.31190949065389</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>La Mode Sophia</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399050</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877861718395,1.31125250037802</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Le Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059905</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.84785551819,1.28834762007886</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lloyds Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 239091</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.840365534939,1.29726393059586</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lofi Inn  Hamilton</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209196</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861024736708,1.31167538691823</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lotus Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 160146</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.830811140196,1.27784910422924</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marrison  Desker</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209588</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.855499326446,1.30899679014955</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marrison Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189704</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.857087208529,1.29789126472923</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mercury Backpackers Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 338714</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.862967949547,1.3099844080044</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mori Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 218675</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.857588877247,1.31594873465198</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nostalgia Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 168727</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.833551091777,1.28509496504846</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Oasia Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 307470</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.84478206387,1.32003039007096</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>One Farrer Hotel  Spa</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 217562</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853919066454,1.3126829995091</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>One15 Marina Club</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098497</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.839526869383,1.2461716730714</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Oxley Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399199</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.876501946402,1.30999446836072</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Oxley Hotel 88</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399045</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877512561863,1.31128890184627</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Village Hotel Albert Court</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189971</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.850716347484,1.30390294139743</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Village Hotel Bugis</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188061</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.857668633124,1.30192847170269</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Village Hotel Changi</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 508502</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.986060748254,1.39040243986071</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Village Hotel Katong</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 449536</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.902911924035,1.30377971172335</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yew Lian Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 389504</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.885503754919,1.31400102887704</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Swissotel Merchant CourtSingapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058281</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845691981165,1.28821836436345</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Ardennes Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199323</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.859686146905,1.30420946974564</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Claremont</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 218224</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854759477545,1.31136623656669</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Daulat</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208413</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852854697552,1.30475160137311</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Elizabeth</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 228518</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.835711979137,1.30802446308211</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Fragrance Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 427485</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.901247245764,1.31149694420015</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Fullerton Bay Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 049326</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853479877059,1.28396700556696</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Fullerton Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 049178</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.8529700314,1.286193579348</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Mitraa</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 218673</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.857555115644,1.3159112716783</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Pan Pacific Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 039595</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858804081786,1.2923732410847</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Spring</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 388619</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.878269726265,1.3136830963529</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Star</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398828</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.88086019921,1.31160634620515</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Tristar</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 424780</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.897420195499,1.31568871293064</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Violet</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 338722</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.862163741318,1.31106819533504</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Ascendere</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399035</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877738905797,1.31192342975535</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Bencoolen</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189626</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.850107917776,1.29918704059007</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The RitzCarlton Millenia Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 039799</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860046940704,1.29071864768141</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Scarlet Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 069333</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845400769773,1.28081343868318</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Seacare Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 169875</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.839842804198,1.28771661557994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>5footwayinn Project Chinatown 3</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059211</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844287624838,1.28360983679311</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>5footwayinn Project Chinatown 4</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059232</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843707976988,1.28356384322666</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABC Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199201</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.859283868532,1.30367879094834</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aliwal Park Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199948</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860267753494,1.30336059702185</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Amara Sanctuary Resort Sentosa</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 099394</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.822016264868,1.25212833382459</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Amara Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 088539</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843549205995,1.27492799526548</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Amber Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 439885</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.901244414448,1.30092044569632</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Amber Hotel Katong</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 439878</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.901095866042,1.30081576232874</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aqueen Hotel  Balestier</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329795</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.849916294892,1.32522631993521</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Moevenpick Heritage Hotel Sentosa</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098679</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.819557237292,1.2532939961557</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Naumi</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188396</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.85518136097,1.29586842877071</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Naumi Liora</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 089158</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.841542036106,1.28061956815121</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>New Cape Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 168891</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.834075560594,1.28556464234214</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>New Cathay Hotel Geylang</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 389403</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.881746879886,1.31323615922897</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>New Happy Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399042</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877803310629,1.31159186146821</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>New Majestic Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 089845</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.840343443691,1.27931253559102</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Value Hotel  Nice</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329738</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852504067362,1.32334528160712</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Value Hotel  Thomson</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329901</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.842719607252,1.32695608633224</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Venue Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 427556</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.902428561586,1.30957935597856</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Changi</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 419871</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.911728745705,1.31869149961271</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jade Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399535</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.882775560513,1.31171217375905</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jayleen 1918 Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059921</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847932360016,1.28778751663594</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jin Dong Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399007</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.878806403491,1.31022759420154</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Blanc Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 207564</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860151921735,1.31181030145845</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bliss Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058353</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844303869551,1.2844580848768</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sofitel So Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 068876</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.849654468489,1.27992230534526</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Soluxe Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 228677</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.849798340807,1.30437868144202</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Studio M Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 238910</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.839075869741,1.2907778825893</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Super 8 Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399041</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877459835736,1.31158620988211</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Superb Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199150</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858529902964,1.30278232906671</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Swissotel The Stamford Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 178882</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853328470287,1.29327511936267</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tai Hoe Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208538</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.856564694542,1.31026632212667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Hotel 2000</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399120</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877081330903,1.30992294291563</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Amazing Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398913</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.879175248433,1.31219390360941</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Club</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 069708</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845762186781,1.28076368783081</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Duxton</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 089540</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843187536817,1.27887068241583</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Hive</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 218223</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858786002183,1.31571699369016</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Inn at Temple Street</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058581</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843868159014,1.28320695756659</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Keong Saik Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 089165</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.841639843341,1.28103938579138</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Pod</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199552</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860546088441,1.30105263001432</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Quincy Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 228517</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.835747993573,1.30775187575658</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Regent Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 249715</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.824897044052,1.30467356332144</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Singapore Resort  Spa</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 099891</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.827525387973,1.24506042981463</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Sultan</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199002</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860975601733,1.30316633448504</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tresor Tavern</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209854</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861821284254,1.31087939327119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Venue Hotel The Lily</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 427495</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.900582032831,1.31154814837834</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ibis Singapore Novena</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329543</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845544731817,1.32614819418148</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 079908</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845057940642,1.27368819486346</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Moni Gallery Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 338795</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858988654863,1.31544208918114</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Moon 23 Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209507</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.85404403907,1.30508429672695</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Orchard Parade Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 247905</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.827739108795,1.3065755091651</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pan Pacific Serviced Suites Beach Road</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199592</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860646943742,1.29962056741989</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Parc Sovereign Hotel  Tyrwhitt</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 207569</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860633465989,1.3123174376663</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Park Hotel Clarke Quay</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 237983</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.842327109213,1.29154630197863</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>PARKROYAL on Kitchener Road</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208533</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.855612021545,1.31063491369467</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>PARKROYAL on Pickering</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058289</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.846289950678,1.28563947721541</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Phil Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209518</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853723500975,1.30536817220924</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Porcelain Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059526</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844285207754,1.28424010679035</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>River View Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 169629</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.836603491649,1.2893713319298</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SAF Yacht Club Changi Resort</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 498800</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>104.015421674249,1.31590775629869</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sandpiper Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209391</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853595448187,1.30480965750245</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Singapore Marriott Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 238865</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.83287641062,1.30510931130895</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Plot Hostels</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 169056</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.834726351204,1.28500553655134</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Westin Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 018961</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.850794861251,1.27830763472932</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Woke Home Capsule Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058691</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.848298097667,1.2870414505695</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kam Leng Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209001</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.859699181013,1.31322466473232</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kawan Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209352</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854088060711,1.30465048708117</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kerbau Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 219178</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.85082529356,1.30754659172557</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kim Tian Star Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399166</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.876240012654,1.31143587611179</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kim Tian Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398678</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.882458407371,1.31205792759156</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kim Tian Hotel Han</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399281</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.876202331012,1.31016197449892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Klapsons The Boutique Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 089316</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.841888378856,1.27364541557543</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lai Ming Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 389396</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.883130314577,1.31301943170784</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lai Ming Hotel Cosmoland</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 389395</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.882877435263,1.31285277507166</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lex Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399073</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877164068809,1.31181087913814</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Link Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 168733</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.834249100776,1.28492767456713</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lulu Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058971</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843005643973,1.28316181238548</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Madras Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208422</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853009648863,1.30493628499849</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Madras Hotel Eminence</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209012</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.859775647314,1.3137971909264</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Malacca Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 423988</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.906356660142,1.31352224555065</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mandarin Orchard Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 238867</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.836340638371,1.30206484058592</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mandarin Oriental Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 039797</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858323660352,1.29066093247068</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Manhanttan Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 160052</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.841579783739,1.28708312552881</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Siloso Beach Resort</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 099538</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.814500095054,1.25498760693919</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Strand Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189619</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.849737908011,1.29865379519873</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Summer View Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189642</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852237204924,1.30165949447824</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fortuna Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 218842</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854952884159,1.31170767143804</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Four Chain View Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 389659</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.890924102572,1.3150249595627</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Four Seasons Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 248646</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.828652402025,1.30521056145552</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Balestier</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329710</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852658759775,1.32197391550536</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Classic</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329808</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.849620495987,1.32586401741133</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Crystal</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398824</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.880589168567,1.3105753252942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Emerald</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399174</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.876341430885,1.31101021804162</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Imperial</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208187</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.86242505874,1.30963631994422</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Kovan</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 534629</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.878732779967,1.3540642991913</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Oasis</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329816</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.848605136153,1.32588643859984</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Pearl</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398961</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.879289057893,1.31156109782427</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Riverside</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059663</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847146083588,1.28789670953755</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Rose</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329715</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852597184529,1.32207511890648</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Ruby</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398730</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.881096766754,1.31223841732685</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Sapphire</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399037</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877771584902,1.31175801548856</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Sunflower</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399043</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877485723718,1.31142614324562</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Furama City Centre Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059804</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844588223909,1.28647390211798</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Gap Year Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 338821</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.85942753051,1.31564039186159</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Gay World Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 389218</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.873741078895,1.31119549537572</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Golden Dragon Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 397662</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.88103783955,1.31122315004017</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Golden Royal Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209645</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.855250605992,1.30914240772264</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Golden Star Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399095</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877336025711,1.31076988931022</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pan Pacific Orchard</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 229540</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.829887617045,1.3073885722358</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Park Avenue Changi</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 486015</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.962986700318,1.33569717714663</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Park Avenue Rochester</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 138637</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.788347055057,1.30535155473007</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Park View Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189692</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.856493976237,1.29720650065463</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pasir Panjang Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 118741</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.770167226162,1.29207867528081</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>PeninsulaExcelsior Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 179805</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.849820084178,1.29194626293294</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Penta Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 219894</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853597550773,1.31119294742506</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Perak Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208133</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853212629321,1.30477792641813</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pillows  Toast Heritage</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058341</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844862683403,1.28415401954882</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Plush Pods</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188091</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.856934421102,1.29800212048544</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Raffles Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189673</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854068022477,1.29509774304791</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Regin Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 387416</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.875893831674,1.31325676473872</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Robertson Quay Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 239032</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.841985291768,1.29116891895396</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Royal Plaza</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 228220</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.832233596543,1.30710711526174</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rucksack Inn  Temple Street</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058597</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843594870552,1.28330939067144</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Santa Grand Hotel Bugis</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 199207</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.859429185291,1.3040539985862</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chinatown Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 088387</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.84199146254,1.28037821698512</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>City Backpackers</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059661</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847281587521,1.28780432701982</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CityBackpackers  Kallang</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 389120</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.872563763461,1.31113809159527</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Classique Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208913</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.8581618645,1.30943053450473</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Concorde Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 238840</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.842226795269,1.3006150005344</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Conrad Centennial Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 038982</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858774426985,1.29352538129231</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Copthorne Kings Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 169632</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.836642171518,1.28825993888518</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Crockfords Tower</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098270</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.819279532887,1.25593420536731</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Darlene Hotel Geylang</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399096</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.876969648398,1.3109012293772</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Diamond Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398806</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.880838340518,1.31186076965223</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ShangriLa Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 258350</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.826756437166,1.31124775070521</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ShangriLas Rasa Sentosa Resort  Spa Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098970</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.809797569073,1.25780238398028</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sheraton Towers Singapore Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 228230</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.836461827586,1.31195086934585</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>New Orchid Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329777</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.851039102438,1.32429163142552</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Orchard Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 238879</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.828547302514,1.3076267570898</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Orchid Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 078867</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843846905491,1.27693708512953</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Oxford Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188549</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.85181962517,1.29801072674605</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Oxley Blossom Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399047</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877540969368,1.3112311784718</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>VIP Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 259895</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.834572737422,1.3156480739831</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>W Singapore Sentosa Cove Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098374</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.842427820157,1.24616583596576</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wanderlust Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209494</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854629144277,1.30512165563782</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wangz Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 169040</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.835009725933,1.28432245328337</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wink Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059488</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844143900417,1.28394874906018</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>York Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 228516</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.835187178759,1.3069257327074</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zenobia Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 207398</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853677271096,1.3061949156673</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Chinatown</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059418</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844098162845,1.2845640104001</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Classic</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 427353</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.897713140337,1.31563644033007</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Cosy</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 089263</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.841859108223,1.27966724008528</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Dickson</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209530</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854269020215,1.3049048092068</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Elegance</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209276</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860271916484,1.31238012402666</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Fuji</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329720</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852600239551,1.32218410747693</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Gold</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398738</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.881121828232,1.31195676883166</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Heritage</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 198985</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861299556759,1.30271640313104</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Hollywood</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399121</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.877447434146,1.31005617737737</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Joy</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 388703</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.876850814618,1.31283557387737</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Kovan</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 534636</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.878886625444,1.35418716771804</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Lavender</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 338716</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.862351339469,1.31075816430562</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Lucky</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398741</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.881497566685,1.31187998737478</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Osaka</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 169753</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.834966364504,1.28336518666355</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Palace</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398867</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.880118756102,1.31179175406445</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Goodwood Park Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 228221</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.834108745181,1.30822248199181</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grand Hyatt Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 228211</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.833283007526,1.3063456711287</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grand Park Orchard</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 238857</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.836204042631,1.30311112659023</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Aqueen Hotel  Lavender</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 338739</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.8611854568,1.31234503455892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Arianna Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 207662</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.855915750363,1.30898230662793</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ascott Singapore Raffles Place</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 049247</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.851544078472,1.28208489036241</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Asia Star Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 207995</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854725185305,1.30850339906149</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Asphodel Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 218702</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.85727123268,1.31503321779103</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Backpackers Hostel  The Little Red Dot</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 338734</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861448333912,1.31204344499518</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Backpackerssg</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208559</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861714884525,1.31033179628668</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Balestier Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329842</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847825414723,1.32633221818541</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bay Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098828</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.823791901179,1.26633713721134</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Grand Pacific</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188018</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852607911731,1.29729451366724</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Hamilton</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209210</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861520910406,1.31154185100491</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Michael</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098269</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.820258847685,1.25500613474398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Miramar Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 169631</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.837414625485,1.28822023794811</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Re  Pearls Hill</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 169879</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.838406951392,1.28541037081246</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Royal  Queens</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188553</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852132773257,1.29752659625689</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Supreme</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 228750</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.842424414914,1.30133969807589</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hup Hoe Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 389525</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.887584009679,1.31396481785524</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>J8 Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 207606</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858520174791,1.30769789846087</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marina Bay Sands Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 018971</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860467762934,1.28299374632451</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marina Mandarin</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 039594</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.857007011272,1.29145560053916</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mayo Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208786</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854120199348,1.30392292449897</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Meng Yew Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 389447</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.884680608655,1.31324138903825</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Min Wah Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398676</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.882460958425,1.31219983859106</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mitraa Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 218163</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.857764424872,1.31507514746515</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MKS Backpackers Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 209757</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853524042165,1.30679709357221</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Harbour Ville Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 099448</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.82774438905,1.27261436719096</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hard Rock Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098139</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.818913579407,1.25746616344117</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Heritage Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058837</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845018115435,1.28137775603768</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Holiday Inn Express Singapore Orchard Road</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 229921</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.836680038604,1.30322829821282</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Home Suite Hotel 6</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399167</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.876690387867,1.31091834935622</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hoover Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329706</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853069303717,1.32170351990435</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hostel Lah</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 338731</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861539267296,1.31190146143512</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Balestier</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329688</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853123409303,1.32137996766397</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Bugis</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188995</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.85561829646,1.29687888344345</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>5footwayinn Project Chinatown 2</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058778</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845722246532,1.28277358839718</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Green Kiwi Backpacker Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 338800</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860315625216,1.31436284708699</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ibis Singapore on Bencoolen</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189657</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852422352191,1.30096351657774</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Le Peranakan Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 428996</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.912040128571,1.30869730246545</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Michaels Backpackers</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 338806</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860129334164,1.31469370727621</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Victoria Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188016</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852441846762,1.29710022030271</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Cherry</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399014</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.878417052708,1.31199154965497</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Haising Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208801</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854580365162,1.30462114264182</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hilton Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 238883</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.82931457159,1.30587936476624</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Bencoolen</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189623</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.849988593401,1.29899851388686</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABC Premium Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 218903</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853166371125,1.31334013055386</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Amaris by Santika</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188931</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.855837437275,1.29671491473591</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chang Ziang Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 388607</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.878049651459,1.31316399514376</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fragrance Hotel  Lavender</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 338710</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.863070474326,1.30978993131226</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Furama Riverfront Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 169633</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.836092517215,1.28763487689916</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ramada Singapore at Zhongshan Park</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329983</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.846373939851,1.32710847046881</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Novotel Singapore Clarke Quay</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 179031</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.844585975427,1.2915151158506</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yes Chinatown Pt Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058967</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843161167147,1.283040168378</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Carlton City Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 078862</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.843698179338,1.27595880160762</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Carlton Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189558</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.852518583465,1.29592678109832</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Travellers Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208953</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858904125324,1.31064658723952</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Urban Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 388189</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.883723228916,1.31612701912611</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>V Hotel Bencoolen</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189627</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.85076283658,1.2989441979104</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>V Hotel Lavender</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208767</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.862534722363,1.30779713403439</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Value Hotel  Balestier</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 329684</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853270200231,1.32124016889963</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Princess</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399001</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.878632043087,1.31098938967218</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Rochor</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208785</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853983056442,1.30375458718653</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Sakura</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 427452</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.900510045696,1.31229220954953</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 81  Selegie</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188318</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.849883795322,1.30328474139573</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bright Star Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 388575</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.87886725693,1.31351637493073</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Broadway Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 218067</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853224175231,1.30917938882131</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Budget Inn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398877</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.88020384728,1.31152317703138</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Budgetone Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398793</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.880423261618,1.31221755382873</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cameron Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 486917</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.954973719254,1.33674267521846</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Capella Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098297</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.824377907445,1.2494833119264</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Society Backpackers Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208934</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858278162183,1.31028646473974</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>South East Asia Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 187965</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853134941811,1.30108712957209</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>St Regis Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 247911</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.826053152676,1.30566198970435</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>AQUEEN  Jalan Besar Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208906</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.858027258808,1.30929119857222</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Arton Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 207576</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.860855631532,1.31200059740573</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Big Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188980</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.851506147439,1.3009167387885</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fairmont Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189560</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.853965804349,1.29400463365243</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grand Copthorne Waterfront Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 169663</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.835180353889,1.29028266366271</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grand Mercure Roxy Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 428769</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.904050796512,1.30432633984355</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Grand U Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208804</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854659027637,1.30474125788365</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Gusti Bed and Breakfast</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208188</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.862219966147,1.30972892565062</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Holiday Inn Express Singapore Clarke Quay</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059573</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.841983609487,1.28924436632229</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>HometownInn</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058788</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845662366635,1.2825101236777</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 101</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398993</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.878120902927,1.31140119313566</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel 34</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398691</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.881861623401,1.31116678949196</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Clover 33 Jalan Sultan</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 198965</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.861728980132,1.3020131462402</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Clover The Arts</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058689</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.848141020413,1.28754198488684</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Kai</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 188593</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.855404990742,1.29652212880111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Clover 5 Hongkong Street</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 059648</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847840581059,1.28743173098279</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Compass</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 398693</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.881863900805,1.31100512707675</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Fort Canning</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 178881</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845361733037,1.29581300664089</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hotel Fuji</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 399541</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.882676374977,1.31170597811996</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dorsett Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 088765</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.840007271879,1.279627026689</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Equarius Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098133</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.816896358975,1.25767146492265</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Festive Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098271</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.819026395039,1.25602143723266</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Footprints Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 208136</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.854063753849,1.30549451368066</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bayview Hotel Singapore</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189621</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.850406410587,1.29849685813343</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Beach Hotel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 189699</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.856714480919,1.2975218967235</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Beach Villas</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 098135</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.816547526936,1.2592380716688</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Beary Best Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 058332</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845380576724,1.28384590364236</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Betel Box Backpackers Hostel</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 427471</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - </b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.900197009699,1.31220655119644</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

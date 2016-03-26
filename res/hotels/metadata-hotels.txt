@@ -1,0 +1,24 @@
+# Metadata for Hotels
+---
+Identifier: '88031120-c55a-490a-89bb-6e30ce0cc122'
+Name: 'hotels'
+Title: 'Hotels'
+Description: 'Location of Hotels by Hotels Licensing Board'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'Hotels'
+  - 'hotels licensing board'
+Publisher:
+  Name: 'Hotels Licensing Board'
+Source Url: 'http://www.onemap.sg/API/Help/'
+License: 'https://data.gov.sg/terms'
+Last Updated: '2015-07-06T10:44:08.031303'
+Resources:
+  -
+    Identifier: '18a91762-5897-4ae6-81b7-496288697e39'
+    Name: 'hotels-kml-layer.kml'
+    Title: 'Hotels KML Layer'
+    Url: 'https://data.gov.sg/dataset/88031120-c55a-490a-89bb-6e30ce0cc122/resource/18a91762-5897-4ae6-81b7-496288697e39/download/hotels.kml'
+    Format: 'KML'
+    Last Updated: '2015-05-20T05:21:50.533747'

@@ -1,0 +1,24 @@
+# Metadata for Hawker Centres
+---
+Identifier: 'aeaf4704-5be1-4b33-993d-c70d8dcc943e'
+Name: 'hawker-centres'
+Title: 'Hawker Centres'
+Description: 'location of hawker centre'
+Topics:
+  - 'Environment'
+Keywords:
+  - 'centre'
+  - 'hawker'
+Publisher:
+  Name: 'National Environment Agency'
+Source Url: 'http://www.onemap.sg/API/Help/'
+License: 'https://data.gov.sg/terms'
+Last Updated: '2016-02-29T23:39:28.603376'
+Resources:
+  -
+    Identifier: 'd1ff19f1-f5eb-45cf-97f4-2cbd3aa4ddcf'
+    Name: 'hawker-centres.kml'
+    Title: 'Hawker Centres'
+    Url: 'https://data.gov.sg/dataset/aeaf4704-5be1-4b33-993d-c70d8dcc943e/resource/d1ff19f1-f5eb-45cf-97f4-2cbd3aa4ddcf/download/hawkercentre.kml'
+    Format: 'KML'
+    Last Updated: '2016-02-29T23:39:28.545665'

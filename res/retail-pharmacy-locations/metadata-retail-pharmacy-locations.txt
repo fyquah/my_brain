@@ -1,0 +1,31 @@
+# Metadata for Retail Pharmacy Locations
+---
+Identifier: 'a7b32fa8-c0a9-4591-890a-9bfc89e570e8'
+Name: 'retail-pharmacy-locations'
+Title: 'Retail Pharmacy Locations'
+Description: 'List of registered retail pharmacies'
+Topics:
+  - 'Health'
+Keywords:
+  - 'beauty'
+  - 'dispensary'
+  - 'drugstore'
+  - 'healthcare'
+  - 'medicine'
+  - 'non-prescription drugs'
+  - 'personal care'
+  - 'pharmacy'
+  - 'sundry'
+  - 'supplements'
+Publisher:
+  Name: 'Health Sciences Authority'
+License: 'https://data.gov.sg/terms'
+Last Updated: '2015-10-20T06:44:29.990812'
+Resources:
+  -
+    Identifier: '9dfcda93-6f55-4028-8bdc-ae4ceac99251'
+    Name: 'retail-pharmacy-locations.zip'
+    Title: 'Retail Pharmacy Locations'
+    Url: 'https://data.gov.sg/dataset/a7b32fa8-c0a9-4591-890a-9bfc89e570e8/resource/9dfcda93-6f55-4028-8bdc-ae4ceac99251/download/retail-pharmacy-locations.zip'
+    Format: 'KML'
+    Last Updated: '2015-10-20T06:44:29.829147'

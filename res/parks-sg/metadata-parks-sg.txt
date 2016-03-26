@@ -1,0 +1,23 @@
+# Metadata for Parks@SG
+---
+Identifier: '61646de6-301d-4891-8c14-5ce299f6f61c'
+Name: 'parks-sg'
+Title: 'Parks@SG'
+Description: 'Places to relax and for light exercises in Singapore'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Fitness Corners'
+  - 'Green Spaces'
+  - 'Parks'
+Publisher:
+  Name: 'Health Promotion Board'
+License: 'https://data.gov.sg/terms'
+Last Updated: '2015-10-20T06:34:51.086683'
+Resources:
+  Identifier: '239f4dc2-9f6f-4563-b39c-a76df96cb427'
+  Name: 'parks-sg.zip'
+  Title: 'Parks@SG'
+  Url: 'https://data.gov.sg/dataset/61646de6-301d-4891-8c14-5ce299f6f61c/resource/239f4dc2-9f6f-4563-b39c-a76df96cb427/download/parkssg.zip'
+  Format: 'KML'
+  Last Updated: '2015-10-20T06:34:50.938248'
